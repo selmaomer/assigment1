@@ -1,0 +1,33 @@
+.home-color{
+    background-color: #1ABC9C;
+}
+
+         .hr-lines{
+        position: relative;
+        max-width: 500px;
+        margin: 100px auto;
+        text-align: center;
+      }
+      
+      .hr-lines:after{
+        content:" ";
+        height: 3px;
+        width: 80px;
+        background:white;
+        display: block;
+        position: absolute;
+        top: 50%;
+        right: 30px;
+      }
+      .hr-lines:before{
+        content:" ";
+        height: 3px;
+        width: 80px;
+        background:white;
+        display: block;
+        position: absolute;
+        top: 50%;
+       left : 30px;
+      }
+      
+      

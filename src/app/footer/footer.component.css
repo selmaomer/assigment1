@@ -1,0 +1,19 @@
+.icon{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+i {
+    border-color:white;
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 5px;
+    margin-left: 5px;
+  }
+  .footer-color{
+    background-color: #2C3E50;
+  }
+  .footer2{
+    background-color:#1A252F
+}
